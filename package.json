@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=8082 react-scripts start",
     "build": "react-scripts build",
     "test": "npx jest --config jest.config.js  --json --outputFile=jestResults.json",
     "cy-test": "npx cypress run",
