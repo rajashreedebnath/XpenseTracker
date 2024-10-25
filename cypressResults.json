@@ -39,7 +39,7 @@
     "numTestsKeptInMemory": 0,
     "platform": "linux",
     "pageLoadTimeout": 60000,
-    "port": 38147,
+    "port": 34527,
     "projectId": null,
     "redirectionLimit": 20,
     "reporter": "spec",
@@ -107,7 +107,7 @@
     "cypressInternalEnv": "production"
   },
   "cypressVersion": "13.15.1",
-  "endedTestsAt": "2024-10-25T01:45:54.026Z",
+  "endedTestsAt": "2024-10-25T02:15:52.972Z",
   "osName": "linux",
   "osVersion": "Ubuntu - ",
   "runs": [
@@ -120,9 +120,9 @@
         "passes": 0,
         "pending": 0,
         "failures": 0,
-        "start": "2024-10-25T01:45:54.029Z",
-        "end": "2024-10-25T01:45:54.029Z",
-        "duration": 0
+        "start": "2024-10-25T02:15:52.976Z",
+        "end": "2024-10-25T02:15:52.977Z",
+        "duration": 1
       },
       "screenshots": [],
       "spec": {
@@ -133,13 +133,13 @@
         "relative": "cypress/e2e/spec.cy.js"
       },
       "stats": {
-        "duration": 1,
-        "endedAt": "2024-10-25T01:45:54.026Z",
+        "duration": 2,
+        "endedAt": "2024-10-25T02:15:52.972Z",
         "failures": 0,
         "passes": 0,
         "pending": 0,
         "skipped": 0,
-        "startedAt": "2024-10-25T01:45:54.025Z",
+        "startedAt": "2024-10-25T02:15:52.970Z",
         "suites": 1,
         "tests": 0
       },
@@ -147,8 +147,8 @@
       "video": null
     }
   ],
-  "startedTestsAt": "2024-10-25T01:45:54.025Z",
-  "totalDuration": 1,
+  "startedTestsAt": "2024-10-25T02:15:52.970Z",
+  "totalDuration": 2,
   "totalFailed": 0,
   "totalPassed": 0,
   "totalPending": 0,

@@ -4,10 +4,10 @@
     "Test Case 3: user slice reducers should handle updateCategoricalBudget": "TEST_STATUS_SUCCESS",
     "Test Case 4: user slice reducers should handle updateActiveFilter": "TEST_STATUS_SUCCESS",
     "Test Case 5: user slice reducers should handle resetAllBudget": "TEST_STATUS_SUCCESS",
-    "Test Case 6: expense slice reducers should handle updateTotalExpense": "TEST_STATUS_SUCCESS",
-    "Test Case 7: expense slice reducers should handle updateCategoricalExpense": "TEST_STATUS_SUCCESS",
-    "Test Case 8: expense slice reducers should handle resetAllExpense": "TEST_STATUS_SUCCESS",
-    "Test Case 9: transaction slice reducers should handle addTransactionEntry": "TEST_STATUS_SUCCESS",
-    "Test Case 10: transaction slice reducers should handle removeTransactionEntry": "TEST_STATUS_SUCCESS",
-    "Test Case 11: transaction slice reducers should handle removeAllTransactions": "TEST_STATUS_SUCCESS"
+    "Test Case 6: transaction slice reducers should handle addTransactionEntry": "TEST_STATUS_SUCCESS",
+    "Test Case 7: transaction slice reducers should handle removeTransactionEntry": "TEST_STATUS_SUCCESS",
+    "Test Case 8: transaction slice reducers should handle removeAllTransactions": "TEST_STATUS_SUCCESS",
+    "Test Case 9: expense slice reducers should handle updateTotalExpense": "TEST_STATUS_SUCCESS",
+    "Test Case 10: expense slice reducers should handle updateCategoricalExpense": "TEST_STATUS_SUCCESS",
+    "Test Case 11: expense slice reducers should handle resetAllExpense": "TEST_STATUS_SUCCESS"
 }

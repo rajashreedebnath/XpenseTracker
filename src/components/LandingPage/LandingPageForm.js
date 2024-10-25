@@ -15,6 +15,8 @@ import BudgetTable from "./BudgetTable";
 import "./LandingPageForm.css";
 
 const LandingPageForm = () => {
+
+
   const user = useSelector((store) => store.user);
   const dispatch = useDispatch();
   const navigate = useNavigate();
@@ -132,7 +134,7 @@ const LandingPageForm = () => {
                 </button>
 
                 <Link to={"/tracker"}>
-                  <button className="navigate-tracker-btn">Go Back →</button>
+                  <button className="navigate-tracker-btn">Go Back ←</button>
                 </Link>
               </>
             )}
